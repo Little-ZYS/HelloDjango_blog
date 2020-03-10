@@ -25,7 +25,7 @@ SECRET_KEY = '-011-zn=pu65)iu$t)i%av=ssy@9jt6im$jc+cch+5pmo4w92n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '.thezys.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '.thezys.com', '47.98.44.45']
 
 
 # Application definition
